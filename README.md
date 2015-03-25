@@ -22,8 +22,8 @@ This script takes the April 2nd AAPL call, and compares it with the underlying a
 One of the biggest topics in the markets right now is crude oil. This script shows the relationship between the May 2015 WTI crude oil futures and U.S. field production of crude oil weekly figures, in thousands of barrels. The price data is pulled from Interactive Brokers, while the production data is pulled from the United States Energy Information Administration website via their API. Follow instructions above to get access to their API if you wish to run this code for yourself. The following two figures show the inverse relationship between the two figures.
 
 #####Crude Oil Plots
-![alt tag](https://raw.githubusercontent.com/mkirch/Interactive-Brokers/master/productionData.png)
-![alt tag](https://raw.githubusercontent.com/mkirch/Interactive-Brokers/master/priceData.png)
+![alt tag](https://raw.githubusercontent.com/mkirch/Interactive-Brokers-Analysis/master/productionData.png)
+![alt tag](https://raw.githubusercontent.com/mkirch/Interactive-Brokers-Analysis/master/priceData.png)
 ##Future Additions
 * Analyze effect of weekly Wednesday EIA production reports on crude oil future prices
   
